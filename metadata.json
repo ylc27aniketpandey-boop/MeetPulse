@@ -1,0 +1,5 @@
+{
+  "name": "MeetPulse",
+  "description": "A polished, modern meeting-notes tool with AI-powered summarization, persistent storage, and a premium dark-themed UI.",
+  "requestFramePermissions": []
+}
